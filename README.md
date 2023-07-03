@@ -2,7 +2,7 @@
 - 👀 I’m interested in cyber security
 - 🌱 I’m currently learning deep C
 - 💞️ I’m looking to collaborate on deep C
-- 📫 How to reach me by contacting on the gmail(hanzla089@gmail.com)
+- 📫 Gmail(hanzla089@gmail.com)
 
 <!---
 hanzlaKhalid7/hanzlaKhalid7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
