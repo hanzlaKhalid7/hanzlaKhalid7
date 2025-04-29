@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hanzlaKhalid7
-- 👀 I’m interested in cyber security
-- 🌱 I’m currently learning deep C
-- 💞️ I’m looking to collaborate on deep C
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently learning ML
+- 💞️ I’m looking to collaborate on ML
 - 📫 Gmail(hanzla089@gmail.com)
 
 <!---
