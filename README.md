@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hanzlaKhalid7
+- 👋 Hi, I’m @hanzlakhalid7
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on ML
